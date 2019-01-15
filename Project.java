@@ -1,6 +1,6 @@
 import java.util.stream.IntStream;
 
-public class Main {
+public class Project {
 
     public static void main(String[] args) {
         System.out.println("Вывод палиндрома и простых чисел");
